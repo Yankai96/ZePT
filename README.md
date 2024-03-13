@@ -8,7 +8,7 @@ CVPR, 2024 <br/>
 # Overview of ZePT
 This repository contains the codes for ZePT (ZePT: Zero-Shot Pan-Tumor Segmentation via Query-Disentangling and Self-Prompting). The architecture of ZePT is illustrated below:
 
-![image](./asset/ZePT.png)
+![image](./asset/ZePt.png)
 
 # Coming Soon!
 
